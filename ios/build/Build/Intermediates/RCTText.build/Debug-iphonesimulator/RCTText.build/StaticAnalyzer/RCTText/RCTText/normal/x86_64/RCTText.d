@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/Ken/GitRepo/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/Ken/GitRepo/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Ken/GitRepo/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Ken/GitRepo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
