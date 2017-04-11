@@ -1,5 +1,6 @@
 import * as types from './types'
 import Api from '../lib/api'
+import Data from '../lib/data'
 
 export function fetchRepo(name) {
   return (dispatch, getState) => {
@@ -11,6 +12,7 @@ export function fetchRepo(name) {
     }).catch( (ex) => {
       console.log(ex);
     });
+    // return dispatch(setSearchedRepos({data: Data.get()}));
   }
 }
 
